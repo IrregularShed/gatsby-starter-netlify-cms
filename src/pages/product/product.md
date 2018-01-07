@@ -1,8 +1,8 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
 title: Our Coffee
-image: /img/jumbotron.jpg
+image: /img/vlcsnap-2017-12-03-21h12m27s059.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,3 +99,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
